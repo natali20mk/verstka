@@ -21,3 +21,18 @@ table, td{
 	  height: 113px;
 	  background-image:url("menu.jpg");
   }
+  #f{	 
+	  height: 435px;
+	  width: 110px;
+	  background-image:url("1.jpg");
+  }
+  #t{
+	  height: 435px;
+	  width: 980px;
+	  background-image:url("2.jpg");
+  }
+   #th{
+	  height: 435px;
+	  width: 110px;
+	  background-image:url("3.jpg");
+  }
