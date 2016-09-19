@@ -1,0 +1,23 @@
+body{
+	magrin:0 auto;
+}
+#main{
+	width:1150px;
+	margin:0 auto;
+}
+table, td{
+	border:1px solid black;
+	border-spacing: 0;
+	border-collapse: collage;
+	padding:0;
+	
+}
+#logo{
+	height: 182px;
+	width: 1150px;
+	background-image: url("logo.jpg");
+}
+  #menu{
+	  height: 113px;
+	  background-image:url("menu.jpg");
+  }
